@@ -1,8 +1,12 @@
+body {
+font-family: 'Roboto Mono', monospace;
+  } 
 h1 {
 margin-left: 40px;
 margin-bottom: 20px;
 margin-top: 0;
-}
+font-family: 'Oswald',sans-serif;
+ }
 span {
 text-transform: uppercase;
-}
+  }
